@@ -10,3 +10,5 @@ clean_dev_sets directory contains all of the SQL queries for these benchmarks th
 failed_sql_queries directory contains the SQL queries that failed due to different issues such as syntax errors, Group by errors, Order by erros, and ...
 
 This repository also contains the results of the human annotation of the SQL queries which failed for both DIN-SQL and T5+PICARD.
+
+Gold.txt file contains the SQL queries of the Spider dataset that are modified by our scripts to avoid the ties.
